@@ -1,0 +1,339 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'es' Physical Memory: 16245 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/User/Documents/Unity/ProyectoFinal
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56541
+Successfully changed project path to: E:/User/Documents/Unity/ProyectoFinal
+E:/User/Documents/Unity/ProyectoFinal
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 26.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path E:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/User/Documents/Unity/ProyectoFinal/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x3e92)
+    Vendor:   
+    VRAM:     8122 MB
+    Driver:   27.20.100.9126
+Initialize mono
+Mono path[0] = 'E:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56988
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001411 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 25.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.269 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000593 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.777 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1125 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.0 MB.
+System memory in use after: 84.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1594.
+Total: 1.627100 ms (FindLiveObjects: 0.140500 ms CreateObjectMapping: 0.038200 ms MarkObjects: 1.338500 ms  DeleteObjects: 0.109200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SimpleNaturePack/Models/Tree_02.fbx
+  artifactKey: Guid(4471b1f7f824e4d44887e1364c6fc61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Tree_02.fbx using Guid(4471b1f7f824e4d44887e1364c6fc61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52479635ef4c399c133cff88c96de4b2') in 0.297329 seconds
+  Import took 0.301301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/SimpleNaturePack/Models/Tree_01.fbx
+  artifactKey: Guid(6c7eaede4efc960409fb9ef2dfb77f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Tree_01.fbx using Guid(6c7eaede4efc960409fb9ef2dfb77f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99947acc712449c5cd9239ff40a3b5bf') in 0.060688 seconds
+  Import took 0.062341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Foliage.FBX
+  artifactKey: Guid(e83dabdd8814e2243a3581266264de31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Foliage.FBX using Guid(e83dabdd8814e2243a3581266264de31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bad7c64f5d282a942221fca38a89c8e') in 0.229812 seconds
+  Import took 0.232692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/SimpleNaturePack/Models/Tree_03.fbx
+  artifactKey: Guid(69f0af3a0a6c73b4ab4b89eb82cdc488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Tree_03.fbx using Guid(69f0af3a0a6c73b4ab4b89eb82cdc488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15a1cf930bc8dd2386d0068b4d99dcc5') in 0.063066 seconds
+  Import took 0.065489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/SimpleNaturePack/Models/Stump_01.fbx
+  artifactKey: Guid(768be665aba8b4e4aae7a973ae9616cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Stump_01.fbx using Guid(768be665aba8b4e4aae7a973ae9616cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02465ed1abb50d3267d7af7af24b7382') in 0.025735 seconds
+  Import took 0.027396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.358524 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/tree_DIF.mat
+  artifactKey: Guid(66b1313491b494d4398251c31b99d540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/tree_DIF.mat using Guid(66b1313491b494d4398251c31b99d540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09f34c68132146a00f3d2062dc6f2afb') in 0.066666 seconds
+  Import took 0.069330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/laxer Assets/Terrain Shader/Materials/tanne rinde 1.mat
+  artifactKey: Guid(72c3407d0e6cbe24b849fe76fc4b8f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/laxer Assets/Terrain Shader/Materials/tanne rinde 1.mat using Guid(72c3407d0e6cbe24b849fe76fc4b8f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f13adc27e4aaadf4fe8539f3b02efe5') in 0.380027 seconds
+  Import took 0.381646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.195255 seconds.
+  path: Assets/Stylized Grass Texture/Materials/Stylize_Grass_diffuse.mat
+  artifactKey: Guid(516e6f11e8de6624eb6be4bac8c14555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Grass Texture/Materials/Stylize_Grass_diffuse.mat using Guid(516e6f11e8de6624eb6be4bac8c14555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e8666190c757bf117c131fae84fbf9') in 0.070974 seconds
+  Import took 0.072936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Stylized Grass Texture/Materials/Stylize_Grass.mat
+  artifactKey: Guid(5d8af8f434f69794eabd684fb44b4fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Grass Texture/Materials/Stylize_Grass.mat using Guid(5d8af8f434f69794eabd684fb44b4fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cff00bccf00676776004308ff5b61b6') in 0.566362 seconds
+  Import took 0.568057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.844119 seconds.
+  path: Assets/SimpleNaturePack/Materials/SimpleNaturePack_Texture_01.mat
+  artifactKey: Guid(93caadf4359ae8143aad35b3145d31af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Materials/SimpleNaturePack_Texture_01.mat using Guid(93caadf4359ae8143aad35b3145d31af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f003e504bd5615cd6f1d30108558370d') in 0.042733 seconds
+  Import took 0.044591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/SimpleNaturePack/Materials/SimpleNaturePack_BG.mat
+  artifactKey: Guid(5f2c2ee5f84253b41b3ff0c1aafcc515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Materials/SimpleNaturePack_BG.mat using Guid(5f2c2ee5f84253b41b3ff0c1aafcc515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23e1e3472bb3331533d17fb16a72d0cc') in 0.047602 seconds
+  Import took 0.049335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.964072 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Signs.mat
+  artifactKey: Guid(3d0ac4bb440627e48aaad2b0af727801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Signs.mat using Guid(3d0ac4bb440627e48aaad2b0af727801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2210cca5382201da15a7b8752d01876a') in 0.046813 seconds
+  Import took 0.048917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019661 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/RoadMarkings.mat
+  artifactKey: Guid(1a8b038a9dbe8264f8adca5057f1acc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/RoadMarkings.mat using Guid(1a8b038a9dbe8264f8adca5057f1acc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10c5cac92afa28a98fa41e30d8ed7961') in 0.028705 seconds
+  Import took 0.030664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.253213 seconds.
+  path: Assets/laxer Assets/Terrain Shader/Models/Tree 3.prefab
+  artifactKey: Guid(f810ca53f25cd3748a57596bf84c4a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/laxer Assets/Terrain Shader/Models/Tree 3.prefab using Guid(f810ca53f25cd3748a57596bf84c4a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58e289cd6f32ec9c2f232f4399bd6611') in 0.500022 seconds
+  Import took 0.502409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.393799 seconds.
+  path: Assets/laxer Assets/Terrain Shader/Models/Materials/None__giant_rock_normals.mat
+  artifactKey: Guid(480368a0c55754148a62a189b45ce138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/laxer Assets/Terrain Shader/Models/Materials/None__giant_rock_normals.mat using Guid(480368a0c55754148a62a189b45ce138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faaf2e3559c829ffaee4377818ae33f2') in 0.436695 seconds
+  Import took 0.438694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp1_ShortDouble.fbx
+  artifactKey: Guid(a93bb19e7536d6c4ba9f87d9c80f607b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp1_ShortDouble.fbx using Guid(a93bb19e7536d6c4ba9f87d9c80f607b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c30d457db78a25117741071310b76d9') in 0.087536 seconds
+  Import took 0.092009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.295382 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp2_Short.fbx
+  artifactKey: Guid(a402dd86229bd0649a0a930d618ff9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp2_Short.fbx using Guid(a402dd86229bd0649a0a930d618ff9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e03308899dec19f5ca2f610e4de2df2a') in 0.040775 seconds
+  Import took 0.042993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.320265 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp2_ShortDouble.fbx
+  artifactKey: Guid(7c254f7259153db43b84ee9acf8f2e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp2_ShortDouble.fbx using Guid(7c254f7259153db43b84ee9acf8f2e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba15a05a2ac3bfacbbc2499a058edd46') in 0.034468 seconds
+  Import took 0.037165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/laxer Assets/Terrain Shader/Materials/New Material.mat
+  artifactKey: Guid(09916d33f9ba2d6498ce9057802a76b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/laxer Assets/Terrain Shader/Materials/New Material.mat using Guid(09916d33f9ba2d6498ce9057802a76b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e311ae03c1a0d98e14aa780e83d03a') in 0.103822 seconds
+  Import took 0.105466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.142989 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Mud.mat
+  artifactKey: Guid(7e703074faa5ed34bbb76b80a9175bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Mud.mat using Guid(7e703074faa5ed34bbb76b80a9175bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c026a4b4f840f7bd65905d6d2051550') in 0.021369 seconds
+  Import took 0.023330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000956 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Mud.mat
+  artifactKey: Guid(7e703074faa5ed34bbb76b80a9175bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Mud.mat using Guid(7e703074faa5ed34bbb76b80a9175bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c026a4b4f840f7bd65905d6d2051550') in 0.013080 seconds
+  Import took 0.015369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.316445 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/LightShape.mat
+  artifactKey: Guid(d380add981a51514ab244cdc8488adfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/LightShape.mat using Guid(d380add981a51514ab244cdc8488adfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c08c2ff98837750701c827e71cca2240') in 0.006778 seconds
+  Import took 0.008596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.266710 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Leaves_V01.mat
+  artifactKey: Guid(5cc1d00d2a111e94fbaa8e91793ebc62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Leaves_V01.mat using Guid(5cc1d00d2a111e94fbaa8e91793ebc62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '109d6c2572d0712158b87c0deb8e98c7') in 0.019981 seconds
+  Import took 0.021894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.378948 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Leaves_02.mat
+  artifactKey: Guid(ef03674ad19dc4f4985cb53df430ba91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Leaves_02.mat using Guid(ef03674ad19dc4f4985cb53df430ba91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1820abdc7334b78c369cab7ca070b1a2') in 0.016148 seconds
+  Import took 0.018037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062081 seconds.
+  path: Assets/laxer Assets/Terrain Shader/Materials/leaves decal.mat
+  artifactKey: Guid(a7c9945f16290bb459a9405d5f1e8e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/laxer Assets/Terrain Shader/Materials/leaves decal.mat using Guid(a7c9945f16290bb459a9405d5f1e8e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9333bad8079f6bc6869b9199802014f') in 0.043323 seconds
+  Import took 0.045174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.395976 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Leavas_03.mat
+  artifactKey: Guid(bc03ba30a4c457d47883b5eb0920749c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Leavas_03.mat using Guid(bc03ba30a4c457d47883b5eb0920749c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0091399f81e6591f8a80cc90517a157c') in 0.009638 seconds
+  Import took 0.012375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/laxer Assets/Terrain Shader/Materials/laxer terrain Diffuse.mat
+  artifactKey: Guid(655d2ea751df3c542a62abe6e45bc231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/laxer Assets/Terrain Shader/Materials/laxer terrain Diffuse.mat using Guid(655d2ea751df3c542a62abe6e45bc231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a401c55974c0820067a22fd36b17315e') in 0.168652 seconds
+  Import took 0.170321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/laxer Assets/Terrain Shader/Materials/laxer terrain Bumped.mat
+  artifactKey: Guid(8aedd9e841f7f534ab4a6e462c2f4541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/laxer Assets/Terrain Shader/Materials/laxer terrain Bumped.mat using Guid(8aedd9e841f7f534ab4a6e462c2f4541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75491dc0de2b99ecfb89c6cf9f0e8c4d') in 0.198182 seconds
+  Import took 0.199879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/laxer Assets/Terrain Shader/AddOn2/laxer terrain 4x smooth.mat
+  artifactKey: Guid(ffd7abcc4a8d3204b8f42302f52abf47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/laxer Assets/Terrain Shader/AddOn2/laxer terrain 4x smooth.mat using Guid(ffd7abcc4a8d3204b8f42302f52abf47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea7db302e62e0333e31916064e475b37') in 0.165995 seconds
+  Import took 0.167638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.318581 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Grass.mat
+  artifactKey: Guid(700158700e4398340be1a92aa014ec3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Grass.mat using Guid(700158700e4398340be1a92aa014ec3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f59bd3d7101957163e36d0cb33e5f9d6') in 0.007122 seconds
+  Import took 0.008901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.286832 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Fence.mat
+  artifactKey: Guid(66b1abe22abb5794c8d330a05b0abf67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Fence.mat using Guid(66b1abe22abb5794c8d330a05b0abf67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f576349306f66398ad6b755dc47e91d') in 0.007305 seconds
+  Import took 0.009163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.872627 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Atlas.mat
+  artifactKey: Guid(38e0f6c0765a5374f9a428840748d450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Atlas.mat using Guid(38e0f6c0765a5374f9a428840748d450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '875d0931a09e3cbd34a49a32c818292e') in 0.022704 seconds
+  Import took 0.026068 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000640 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.745 seconds
+Platform modules already initialized, skipping
